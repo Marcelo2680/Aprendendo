@@ -1,0 +1,81 @@
+Lei de Ampère
+N*I=(Hc*lc)+(Hg*lg)
+
+------------------------------------------------
+Densidade de campo magnetico
+B=u*H
+B=phi/A
+Bm=(Bg*Ag)/(Am)
+------------------------------------------------
+Mi
+u=ur*u0
+
+------------------------------------------------
+Relutância
+R=(l)/(u*A)
+
+------------------------------------------------
+Lei de Ohm pra magnetismo
+Fmm=phi*R
+
+------------------------------------------------
+Fluxo Magnetico
+phi=(N*I)/(Rc+Rg)
+
+------------------------------------------------
+Indutâcia
+L=((N^2)*B*A)/(H*l)
+L=((N^2)*u*A)/(l)
+L=(N^2)/(R)
+L=y/I
+
+Duas bobinas
+[y1] = [L11  L12] [I1]
+[y2] = [L21  L22] [I2]
+
+L11=(N1^2)/Rg   ==> Autoindutâncaia
+L12=L21=(N1*N2)/Rg   ==> Indutâcia Mútua
+------------------------------------------------
+Perdas
+Ph = Vc*Abh*f = Vc*Wh*f
+Pe=ke*(Bmax^2)*(f^2)
+Pc=Ph+Pe
+
+------------------------------------------------
+Tensão
+e = N*(dphi/dt)
+
+------------------------------------------------
+Lei de Ampère Imã Permanente
+(Hg*lg)+(Hm*lm)=0
+
+------------------------------------------------
+Reta de Carga
+Bm=-Hm*u0*(lm/lg)*(Ag/Am)
+
+------------------------------------------------
+Reta de Recuo
+Bm=Br+(ur*u0*Hm)
+
+================================================
+Unidades SI
+I = [A] => Corrente
+B = [T] => Densidade de Campo Magnetico
+l = [m] => Comprimento
+phi = [Wb] => Fluxo de Campo Magnetico
+H = [Ae/m] => Campo Magnético
+L = [H] => Indutâcia
+Wh = [J/m^2] => Energia
+e = [V] => Tensão
+f = [Hz] => Frequência
+A = [m^2] => Área
+y = [Wb] => Fluxo concatenado
+R = [H^-1] => Relutância
+P = [J] => Perdas
+
+
+[10.0, 10.0, 0,    0,    0   ]
+[10.0, 20.0, 10.0, 0,    0   ]
+[0,    10.0, 20.0, 10.0, 0   ]
+[0,    0,    10.0, 20.0, 10.0]
+[0,    0,    0,    10.0, 10.0]

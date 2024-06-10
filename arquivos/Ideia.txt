@@ -1,0 +1,29 @@
+Código Geral para resolução de problemas voltados para engenharia elétrica:
+
+EXEMPLOS:
+-Acossiação de resistores
+-Determinação de Impedâncias
+-Associação de Impedâncias
+-Projeto de Filtros
+-Operações com números complexos (tipo uma hp)
+-Operaçoes e metodos numericos
+-Divisor de corrente e tensão
+
+Podemos dividir por materia
+Podemos dividir por assunto
+Podemos dividir de outra forma
+
+Interface Gráfica de Fácil Interação
+Programa executável
+Se tudo der muito certo, fazer como forma de aplicativo
+
+SE DER MUITO CERTO VAMOS TER FUTURAMENTE UM AUXILIAR DE ENGENHARIA ELÉTRICA DE BOLSO
+
+N
+B
+A
+I
+H
+l
+R
+u
